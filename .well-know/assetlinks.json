@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fourcushion.min606",
+      "sha256_cert_fingerprints":
+        ["AA:23:C4:48:B0:9E:B3:4F:F6:4B:AB:2B:B4:89:EB:A3:EF:73:18:FF:96:AD:07:1A:2D:43:E6:32:D9:DB:2A:3F"]
+    }
+  }
+]
